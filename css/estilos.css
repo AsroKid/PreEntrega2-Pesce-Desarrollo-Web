@@ -1,0 +1,78 @@
+/* Estilos personalizados para la página */
+
+body {
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+  }
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  p {
+    color: white;
+    text-align: center;
+  }
+  header {
+    background-color: #4d0202;
+    padding: 30px;
+    font-size: x-large;
+  }
+  .titulo_de_pagina {
+    text-decoration: none;
+    color: aliceblue;
+  }
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  section {
+    padding: 20px ;
+    text-align: center;
+  }
+  .seccion-img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+  section img {
+    border: 3px solid rgb(66, 66, 66);
+    border-radius: 10px;
+  }
+  .tamañoimg {
+   max-width: 100%;
+   max-height: 100%;
+  }
+  .cuadros {
+    border: 6px solid rgb(161, 11, 11) ;
+    background-color: gray;
+    border-radius: 10px;
+  }
+  
+.cuadros .botones{
+  border: 6px solid rgb(107, 107, 107) ;
+  background-color: firebrick;
+  border-radius: 10px;
+  padding-top: 10px;
+}
+.botones:hover {
+  background-color: rgb(100, 20, 20);
+}
+h3{ 
+  color: white;
+}
+  .section h2 {
+    margin-bottom: 20px;
+  }
+  
+  .section p {
+    margin-bottom: 40px;
+  }
+  
+  footer {
+    background-color: #4d0202;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  
